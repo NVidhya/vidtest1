@@ -26,7 +26,7 @@ import org.testng.xml.XmlTest;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.phantomjs.PhantomJSDriver;
+// import org.openqa.selenium.phantomjs.PhantomJSDriver;
 
 public class Suite implements ITestListener {
 
